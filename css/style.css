@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FF6900;
+    color: white;
+}
+
+.logo{
+    width: 150px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
