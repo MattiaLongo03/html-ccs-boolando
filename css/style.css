@@ -35,3 +35,25 @@ nav a{
     padding: 50px;
     width: 500px;
 }
+
+footer{
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    align-items: center;
+    background-color: #1A1A1A;
+    color: white;
+    border-bottom: solid;
+    border-color: white;
+}
+
+footer a{
+    color: white;
+    text-decoration: none;
+}
+
+.container-footer{
+    display: flex;
+    justify-content: space-between;
+}
